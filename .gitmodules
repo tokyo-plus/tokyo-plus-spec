@@ -1,0 +1,3 @@
+[submodule "tokyo-plus-frontend"]
+	path = tokyo-plus-frontend
+	url = https://github.com/tokyo-plus/tokyo-plus-frontend.git
