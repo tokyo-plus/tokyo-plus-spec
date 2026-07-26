@@ -2,12 +2,15 @@
 
 ## Why TOKYO+
 
-Every day, cities generate enormous amounts of information: weather, transportation, disasters, events, congestion, construction, and more. Today, citizens must open multiple apps to collect that information and decide what to do.
+都市は毎日、天気・交通・災害・イベント・混雑・工事など、膨大な情報を発信しています。
 
-People do not actually want more information.
-They want confidence that they are making the right decision.
+しかし現在は、利用者が複数のアプリを開き、それらの情報を集め、自分で状況を整理し、行動を判断しなければなりません。
 
-TOKYO+ exists to transform urban data into personalized decisions.
+人が本当に欲しいのは、より多くの情報ではありません。
+
+**「今、自分はどう行動すればいいのか」という、たった一つの判断です。**
+
+TOKYO+は、東京都オープンデータとAIを活用し、都市の情報を一人ひとりに最適な『判断』へ変換することを目指します.
 
 ## Vision
 
